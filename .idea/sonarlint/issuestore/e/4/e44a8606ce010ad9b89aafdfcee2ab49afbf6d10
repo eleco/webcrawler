@@ -1,16 +1,0 @@
-
-Z
-java:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8°Úİ§×.
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‚¤ñ¾üÿÿÿÿ8üÈ„¨×.
-Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ŞÆ­Ûşÿÿÿÿ8¤Ğ¨×.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢õïêüÿÿÿÿ8½Ú®©×.
-U	java:S106""9Replace this use of System.out or System.err by a logger.(ÄÊã8¾Âƒ¨×.
-h
-java:S2259B"FA "NullPointerException" could be thrown; "document" is nullable here.(¯Ÿğõûÿÿÿÿ8¾ÿµ¨×.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï•õ‚üÿÿÿÿ8°Úİ§×.
-O
-java:S1135"2Complete the task associated to this TODO comment.(…ïœ†8øÔ—¨×.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(×•´ùÿÿÿÿ8°Úİ§×.
